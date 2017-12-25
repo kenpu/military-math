@@ -1,0 +1,1538 @@
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.319 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.192 seconds.[0m
+[36m----  Could not Read  src/mm/core.cljs   line:42 ----[0m
+
+  [1m/home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 42, col 1] Unexpected EOF while reading item 12 of list, starting at line 12 and column 6.[0m
+
+[36m----  Reader Error : Please see src/mm/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:24  column:29  ----[0m
+
+  [1mUse of undeclared Var mm.core/TableMul[0m
+
+  [36m20[0m  [36m  (fn [][0m
+  [36m21[0m  [36m    [:div "Multiplication table"]))[0m
+  [36m22[0m  [36m[0m
+  [36m23[0m  [36m(def components {:main Main[0m
+  [33m24[0m  [1m                 :table-mul TableMul})[0m
+  [0m  [0m  [33m                            ^--- Use of undeclared Var mm.core/TableMul[0m
+  [36m25[0m  [36m[0m
+  [36m26[0m  [36m(def app {:components components[0m
+  [36m27[0m  [36m          :html-element (.getElementById js/document "app")})[0m
+  [36m28[0m  [36m[0m
+  [36m29[0m  [36m(def running-app (atom nil))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.373 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.33 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.277 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.287 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.277 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.282 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.293 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.292 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.284 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.309 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.292 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.286 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.315 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.323 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.291 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:72  column:30  ----[0m
+
+  [1mUse of undeclared Var mm.core/handler[0m
+
+  [36m69[0m  [36m(defrecord MainController [])[0m
+  [36m70[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m71[0m  [36m  true)[0m
+  [33m72[0m  [1m(defmethod controller/params handler [this app-db in-chan out-chan][0m
+  [0m  [0m  [33m                             ^--- Use of undeclared Var mm.core/handler[0m
+  [36m73[0m  [36m  (controller/dispatcher [0m
+  [36m74[0m  [36m    app-db in-chan[0m
+  [36m75[0m  [36m    {:select-cell (fn [app-db [i j]][0m
+  [36m76[0m  [36m                    (swap! app-db assoc-in [:selected-cell] [i j]))[0m
+  [36m77[0m  [36m     }))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.397 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:72  column:30  ----[0m
+
+  [1mUse of undeclared Var mm.core/handler[0m
+
+  [36m69[0m  [36m(defrecord MainController [])[0m
+  [36m70[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m71[0m  [36m  true)[0m
+  [33m72[0m  [1m(defmethod controller/params handler [this app-db in-chan out-chan][0m
+  [0m  [0m  [33m                             ^--- Use of undeclared Var mm.core/handler[0m
+  [36m73[0m  [36m  (controller/dispatcher [0m
+  [36m74[0m  [36m    app-db in-chan[0m
+  [36m75[0m  [36m    {:select-cell (fn [app-db [i j]][0m
+  [36m76[0m  [36m                    (swap! app-db assoc-in [:selected-cell] [i j]))[0m
+  [36m77[0m  [36m     }))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.368 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.309 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.334 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.319 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.318 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.323 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.328 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.311 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.308 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.324 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.394 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:35  column:18  ----[0m
+
+  [1mUse of undeclared Var mm.core/col-selection-class[0m
+
+  [36m31[0m  [36m     (if (zero? j) [0m
+  [36m32[0m  [36m       [:div.-blank.-cell {:key j}][0m
+  [36m33[0m  [36m       [:div.-cell.-heading [0m
+  [36m34[0m  [36m        {:key j[0m
+  [33m35[0m  [1m         :class (col-selection-class j0 j)} j]))])[0m
+  [0m  [0m  [33m                 ^--- Use of undeclared Var mm.core/col-selection-class[0m
+  [36m36[0m  [36m[0m
+  [36m37[0m  [36m(defn row [ctx i [i0 j0]][0m
+  [36m38[0m  [36m  [:div.-row[0m
+  [36m39[0m  [36m   (for [j (range 10)][0m
+  [36m40[0m  [36m     (if (zero? j)[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:35  column:18  ----[0m
+
+  [1mUse of undeclared Var mm.core/col-selection-class[0m
+
+  [36m31[0m  [36m     (if (zero? j) [0m
+  [36m32[0m  [36m       [:div.-blank.-cell {:key j}][0m
+  [36m33[0m  [36m       [:div.-cell.-heading [0m
+  [36m34[0m  [36m        {:key j[0m
+  [33m35[0m  [1m         :class (col-selection-class j0 j)} j]))])[0m
+  [0m  [0m  [33m                 ^--- Use of undeclared Var mm.core/col-selection-class[0m
+  [36m36[0m  [36m[0m
+  [36m37[0m  [36m(defn row [ctx i [i0 j0]][0m
+  [36m38[0m  [36m  [:div.-row[0m
+  [36m39[0m  [36m   (for [j (range 10)][0m
+  [36m40[0m  [36m     (if (zero? j)[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:43  column:18  ----[0m
+
+  [1mUse of undeclared Var mm.core/row-selection-class[0m
+
+  [36m39[0m  [36m(for [j (range 10)][0m
+  [36m40[0m  [36m  (if (zero? j)[0m
+  [36m41[0m  [36m    [:div.-cell.-heading [0m
+  [36m42[0m  [36m     {:key j[0m
+  [33m43[0m  [1m      :class (row-selection-class i0 i)} i][0m
+  [0m  [0m  [33m              ^--- Use of undeclared Var mm.core/row-selection-class[0m
+  [36m44[0m  [36m    [:div.-cell {:key j[0m
+  [36m45[0m  [36m                 :class (cell-selection-class i0 j0 i j)[0m
+  [36m46[0m  [36m                 :on-mouse-enter (fn [e][0m
+  [36m47[0m  [36m                                   (println i "x" j))} (* i j)]))])[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:45  column:29  ----[0m
+
+  [1mUse of undeclared Var mm.core/cell-selection-class[0m
+
+  [36m41[0m  [36m       [:div.-cell.-heading [0m
+  [36m42[0m  [36m        {:key j[0m
+  [36m43[0m  [36m         :class (row-selection-class i0 i)} i][0m
+  [36m44[0m  [36m       [:div.-cell {:key j[0m
+  [33m45[0m  [1m                    :class (cell-selection-class i0 j0 i j)[0m
+  [0m  [0m  [33m                            ^--- Use of undeclared Var mm.core/cell-selection-class[0m
+  [36m46[0m  [36m                    :on-mouse-enter (fn [e][0m
+  [36m47[0m  [36m                                      (println i "x" j))} (* i j)]))])[0m
+  [36m48[0m  [36m[0m
+  [36m49[0m  [36m(defn TableMulRenderer [ctx][0m
+  [36m50[0m  [36m  (fn [][0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:43  column:18  ----[0m
+
+  [1mUse of undeclared Var mm.core/row-selection-class[0m
+
+  [36m39[0m  [36m(for [j (range 10)][0m
+  [36m40[0m  [36m  (if (zero? j)[0m
+  [36m41[0m  [36m    [:div.-cell.-heading [0m
+  [36m42[0m  [36m     {:key j[0m
+  [33m43[0m  [1m      :class (row-selection-class i0 i)} i][0m
+  [0m  [0m  [33m              ^--- Use of undeclared Var mm.core/row-selection-class[0m
+  [36m44[0m  [36m    [:div.-cell {:key j[0m
+  [36m45[0m  [36m                 :class (cell-selection-class i0 j0 i j)[0m
+  [36m46[0m  [36m                 :on-mouse-enter (fn [e][0m
+  [36m47[0m  [36m                                   (println i "x" j))} (* i j)]))])[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:45  column:29  ----[0m
+
+  [1mUse of undeclared Var mm.core/cell-selection-class[0m
+
+  [36m41[0m  [36m       [:div.-cell.-heading [0m
+  [36m42[0m  [36m        {:key j[0m
+  [36m43[0m  [36m         :class (row-selection-class i0 i)} i][0m
+  [36m44[0m  [36m       [:div.-cell {:key j[0m
+  [33m45[0m  [1m                    :class (cell-selection-class i0 j0 i j)[0m
+  [0m  [0m  [33m                            ^--- Use of undeclared Var mm.core/cell-selection-class[0m
+  [36m46[0m  [36m                    :on-mouse-enter (fn [e][0m
+  [36m47[0m  [36m                                      (println i "x" j))} (* i j)]))])[0m
+  [36m48[0m  [36m[0m
+  [36m49[0m  [36m(defn TableMulRenderer [ctx][0m
+  [36m50[0m  [36m  (fn [][0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.509 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.399 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.375 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.336 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.347 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.343 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.339 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.35 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.315 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.324 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.248 seconds.[0m
+[36m----  Could not Analyze  src/mm/core.cljs   line:101  column:1  ----[0m
+
+  [1mToo many arguments to def at line 101 src/mm/core.cljs[0m
+
+  [36m 99[0m  [36m    [:div "Console"]))[0m
+  [36m100[0m  [36m[0m
+  [33m101[0m  [1m(def Console [ctx][0m
+  [0m   [0m  [33m^--- Too many arguments to def at line 101 src/mm/core.cljs[0m
+  [36m102[0m  [36m  (ui/constructor {:renderer ConsoleRenderer[0m
+  [36m103[0m  [36m                   :component-deps [][0m
+  [36m104[0m  [36m                   :subscription-deps [:selected-cell]}))[0m
+
+[36m----  Analysis Error : Please see src/mm/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.337 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:108  column:49  ----[0m
+
+  [1mUse of undeclared Var mm.core/main[0m
+
+  [36m104[0m  [36m                   :subscription-deps [:selected-cell]}))[0m
+  [36m105[0m  [36m[0m
+  [36m106[0m  [36m(def components {:main (assoc Main :topic :main)[0m
+  [36m107[0m  [36m                 :table-mul (assoc TableMul :topic :main)[0m
+  [33m108[0m  [1m                 :console (assoc Console :topic main)})[0m
+  [0m   [0m  [33m                                                ^--- Use of undeclared Var mm.core/main[0m
+  [36m109[0m  [36m[0m
+  [36m110[0m  [36m;; ========================================================================[0m
+  [36m111[0m  [36m[0m
+  [36m112[0m  [36m(def subscriptions[0m
+  [36m113[0m  [36m  {:selected-cell (fn [app-db] (reaction (get-in @app-db [:selected-cell])))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.372 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.327 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.369 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.375 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.366 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.326 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.348 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.339 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.334 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.33 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.375 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.352 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.35 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.39 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.357 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.344 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.381 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.353 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.394 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.386 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.409 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.381 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.357 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.329 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.329 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.403 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.354 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.341 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.385 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.353 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.377 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:82  column:65  ----[0m
+
+  [1mUse of undeclared Var mm.core/x[0m
+
+  [36m78[0m  [36m      :else :none)))[0m
+  [36m79[0m  [36m[0m
+  [36m80[0m  [36m(defn HeadingCell[0m
+  [36m81[0m  [36m  [problem i j][0m
+  [33m82[0m  [1m   [:div.-heading.-cell {:class (name (cell-type problem i j))} x])[0m
+  [0m  [0m  [33m                                                                ^--- Use of undeclared Var mm.core/x[0m
+  [36m83[0m  [36m[0m
+  [36m84[0m  [36m(defn Cell[0m
+  [36m85[0m  [36m  [problem i j][0m
+  [36m86[0m  [36m  (let [type (cell-type problem i j)][0m
+  [36m87[0m  [36m    [:div.-cell[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.474 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:82  column:64  ----[0m
+
+  [1mUse of undeclared Var mm.core/x[0m
+
+  [36m78[0m  [36m      :else :none)))[0m
+  [36m79[0m  [36m[0m
+  [36m80[0m  [36m(defn HeadingCell[0m
+  [36m81[0m  [36m  [problem i j][0m
+  [33m82[0m  [1m  [:div.-heading.-cell {:class (name (cell-type problem i j))} x])[0m
+  [0m  [0m  [33m                                                               ^--- Use of undeclared Var mm.core/x[0m
+  [36m83[0m  [36m[0m
+  [36m84[0m  [36m(defn Cell[0m
+  [36m85[0m  [36m  [problem i j][0m
+  [36m86[0m  [36m  (let [type (cell-type problem i j)][0m
+  [36m87[0m  [36m    [:div.-cell[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.407 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:82  column:64  ----[0m
+
+  [1mUse of undeclared Var mm.core/x[0m
+
+  [36m78[0m  [36m      :else :none)))[0m
+  [36m79[0m  [36m[0m
+  [36m80[0m  [36m(defn HeadingCell[0m
+  [36m81[0m  [36m  [problem i j][0m
+  [33m82[0m  [1m  [:div.-heading.-cell {:class (name (cell-type problem i j))} x])[0m
+  [0m  [0m  [33m                                                               ^--- Use of undeclared Var mm.core/x[0m
+  [36m83[0m  [36m[0m
+  [36m84[0m  [36m(defn Cell[0m
+  [36m85[0m  [36m  [problem i j][0m
+  [36m86[0m  [36m  (let [type (cell-type problem i j)][0m
+  [36m87[0m  [36m    [:div.-cell[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.402 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.336 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.343 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.353 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.38 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.245 seconds.[0m
+[36m----  Could not Read  src/mm/core.cljs   line:154 ----[0m
+
+  [1m/home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 154, col 79] Unmatched delimiter }.[0m
+
+  [36m152[0m  [36m         :on-change (fn [e][0m
+  [36m153[0m  [36m                      (let [ans (-> e .-target .-value)][0m
+  [33m154[0m  [1m                        (ui/send-command ctx :user-answer ans)))}][0m
+  [0m   [0m  [33m                        /home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 154, col 79] Unmatched delimiter }.[0m
+  [36m155[0m  [36m[:span (case correct[0m
+  [36m156[0m  [36m             true "Yes"[0m
+  [36m157[0m  [36m             false "No"[0m
+
+[36m----  Reader Error : Please see src/mm/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.354 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.356 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.345 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.369 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.372 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.363 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.386 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.384 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.369 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.398 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.349 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.353 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:28  column:13  ----[0m
+
+  [1mUse of undeclared Var mm.core/app-db[0m
+
+  [36m24[0m  [36m(defrecord MainController [])[0m
+  [36m25[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m26[0m  [36m  true)[0m
+  [36m27[0m  [36m(defmethod controller/start MainController [this params app-data][0m
+  [33m28[0m  [1m  (assoc-in app-db [:kv :problem] (random-problem)))[0m
+  [0m  [0m  [33m            ^--- Use of undeclared Var mm.core/app-db[0m
+  [36m29[0m  [36m[0m
+  [36m30[0m  [36m(defmethod controller/handler MainController [this app-db in-chan out-chan][0m
+  [36m31[0m  [36m  (controller/dispatcher [0m
+  [36m32[0m  [36m    app-db in-chan[0m
+  [36m33[0m  [36m    {:new-problem (fn [app-db [i j]] [0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:28  column:36  ----[0m
+
+  [1mUse of undeclared Var mm.core/random-problem[0m
+
+  [36m24[0m  [36m(defrecord MainController [])[0m
+  [36m25[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m26[0m  [36m  true)[0m
+  [36m27[0m  [36m(defmethod controller/start MainController [this params app-data][0m
+  [33m28[0m  [1m  (assoc-in app-db [:kv :problem] (random-problem)))[0m
+  [0m  [0m  [33m                                   ^--- Use of undeclared Var mm.core/random-problem[0m
+  [36m29[0m  [36m[0m
+  [36m30[0m  [36m(defmethod controller/handler MainController [this app-db in-chan out-chan][0m
+  [36m31[0m  [36m  (controller/dispatcher [0m
+  [36m32[0m  [36m    app-db in-chan[0m
+  [36m33[0m  [36m    {:new-problem (fn [app-db [i j]] [0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:164  column:33  ----[0m
+
+  [1mUse of undeclared Var mm.core/pick-problem![0m
+
+  [36m160[0m  [36m                          true "Yes"[0m
+  [36m161[0m  [36m                          false "No"[0m
+  [36m162[0m  [36m                          "?")]])[0m
+  [36m163[0m  [36m          [Keyboard ctx][0m
+  [33m164[0m  [1m          [:button {:on-click #(pick-problem! ctx)} "Refresh"]]))))[0m
+  [0m   [0m  [33m                                ^--- Use of undeclared Var mm.core/pick-problem![0m
+  [36m165[0m  [36m[0m
+  [36m166[0m  [36m(def Console[0m
+  [36m167[0m  [36m  (ui/constructor {:renderer ConsoleRenderer[0m
+  [36m168[0m  [36m                   :component-deps [][0m
+  [36m169[0m  [36m                   :subscription-deps [:problem]}))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.538 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:28  column:13  ----[0m
+
+  [1mUse of undeclared Var mm.core/app-db[0m
+
+  [36m24[0m  [36m(defrecord MainController [])[0m
+  [36m25[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m26[0m  [36m  true)[0m
+  [36m27[0m  [36m(defmethod controller/start MainController [this params app-data][0m
+  [33m28[0m  [1m  (assoc-in app-db [:kv :problem] (random-problem)))[0m
+  [0m  [0m  [33m            ^--- Use of undeclared Var mm.core/app-db[0m
+  [36m29[0m  [36m[0m
+  [36m30[0m  [36m(defmethod controller/handler MainController [this app-db in-chan out-chan][0m
+  [36m31[0m  [36m  (controller/dispatcher [0m
+  [36m32[0m  [36m    app-db in-chan[0m
+  [36m33[0m  [36m    {:new-problem (fn [app-db] [0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:28  column:36  ----[0m
+
+  [1mUse of undeclared Var mm.core/random-problem[0m
+
+  [36m24[0m  [36m(defrecord MainController [])[0m
+  [36m25[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m26[0m  [36m  true)[0m
+  [36m27[0m  [36m(defmethod controller/start MainController [this params app-data][0m
+  [33m28[0m  [1m  (assoc-in app-db [:kv :problem] (random-problem)))[0m
+  [0m  [0m  [33m                                   ^--- Use of undeclared Var mm.core/random-problem[0m
+  [36m29[0m  [36m[0m
+  [36m30[0m  [36m(defmethod controller/handler MainController [this app-db in-chan out-chan][0m
+  [36m31[0m  [36m  (controller/dispatcher [0m
+  [36m32[0m  [36m    app-db in-chan[0m
+  [36m33[0m  [36m    {:new-problem (fn [app-db] [0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.485 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:28  column:38  ----[0m
+
+  [1mUse of undeclared Var mm.core/random-problem[0m
+
+  [36m24[0m  [36m(defrecord MainController [])[0m
+  [36m25[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m26[0m  [36m  true)[0m
+  [36m27[0m  [36m(defmethod controller/start MainController [this params app-data][0m
+  [33m28[0m  [1m  (assoc-in app-data [:kv :problem] (random-problem)))[0m
+  [0m  [0m  [33m                                     ^--- Use of undeclared Var mm.core/random-problem[0m
+  [36m29[0m  [36m[0m
+  [36m30[0m  [36m(defmethod controller/handler MainController [this app-db in-chan out-chan][0m
+  [36m31[0m  [36m  (controller/dispatcher [0m
+  [36m32[0m  [36m    app-db in-chan[0m
+  [36m33[0m  [36m    {:new-problem (fn [app-db] [0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.459 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.385 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.375 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.405 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.36 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.432 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.391 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.393 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.386 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.399 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.345 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.398 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.386 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.394 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.396 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.368 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.404 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.388 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.362 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.397 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.385 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.378 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.357 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.385 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.368 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.386 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.372 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.381 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.368 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.371 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.39 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.43 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.483 seconds.[0m
+notifying browser that file changed:  public/js/out/goog/deps.js
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.434 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.376 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.478 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.44 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.447 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.419 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.289 seconds.[0m
+[36m----  Could not Read  src/mm/core.cljs   line:159 ----[0m
+
+  [1m/home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 159, col 49] Unmatched delimiter }.[0m
+
+  [36m157[0m  [36m[:div.keyboard[0m
+  [36m158[0m  [36m [:div.-digits[0m
+  [33m159[0m  [1m  {:class (when (:correct problem) "-disable"}[0m
+  [0m   [0m  [33m  /home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 159, col 49] Unmatched delimiter }.[0m
+  [36m160[0m  [36m  (for [digits ["123" "456" "789" "0"]][0m
+  [36m161[0m  [36m    ^{:key digits}[0m
+  [36m162[0m  [36m    [:div.-row[0m
+
+[36m----  Reader Error : Please see src/mm/core.cljs  ----[0m
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.26 seconds.[0m
+[36m----  Could not Read  src/mm/core.cljs   line:159 ----[0m
+
+  [1m/home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 159, col 50] Unmatched delimiter }.[0m
+
+  [36m157[0m  [36m[:div.keyboard[0m
+  [36m158[0m  [36m [:div.-digits[0m
+  [33m159[0m  [1m  {:class (when (:correct problem) "-disabled"}[0m
+  [0m   [0m  [33m  /home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 159, col 50] Unmatched delimiter }.[0m
+  [36m160[0m  [36m  (for [digits ["123" "456" "789" "0"]][0m
+  [36m161[0m  [36m    ^{:key digits}[0m
+  [36m162[0m  [36m    [:div.-row[0m
+
+[36m----  Reader Error : Please see src/mm/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:159  column:29  ----[0m
+
+  [1mUse of undeclared Var mm.core/problem[0m
+
+  [36m155[0m  [36m(defn Keyboard[0m
+  [36m156[0m  [36m  [ctx][0m
+  [36m157[0m  [36m  [:div.keyboard[0m
+  [36m158[0m  [36m   [:div.-digits[0m
+  [33m159[0m  [1m    {:class (when (:correct problem) "-disabled")}[0m
+  [0m   [0m  [33m                            ^--- Use of undeclared Var mm.core/problem[0m
+  [36m160[0m  [36m    (for [digits ["123" "456" "789" "0"]][0m
+  [36m161[0m  [36m      ^{:key digits}[0m
+  [36m162[0m  [36m      [:div.-row[0m
+  [36m163[0m  [36m       (for [i digits][0m
+  [36m164[0m  [36m         ^{:key i}[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.522 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.41 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.382 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.452 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.439 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.392 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:174  column:9  ----[0m
+
+  [1mUse of undeclared Var mm.core/KeyboardBackspace[0m
+
+  [36m170[0m  [36m        ^{:key i}[0m
+  [36m171[0m  [36m        [KeyboardCell ctx problem i])])[0m
+  [36m172[0m  [36m   [:div.-row[0m
+  [36m173[0m  [36m    [KeyboardCell ctx problem 0][0m
+  [33m174[0m  [1m    [KeyboardBackspace ctx problem]]])[0m
+  [0m   [0m  [33m     ^--- Use of undeclared Var mm.core/KeyboardBackspace[0m
+  [36m175[0m  [36m[:div.-commands[0m
+  [36m176[0m  [36m [:div.-cell [0m
+  [36m177[0m  [36m  [:button [0m
+  [36m178[0m  [36m   {:on-click #(ui/send-command ctx :submit-answer)} "Okay"]][0m
+  [36m179[0m  [36m [:div.-cell [0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.493 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.405 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.42 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.398 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.399 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.405 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.397 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.419 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.377 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.424 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.393 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.363 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.389 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:17  column:17  ----[0m
+
+  [1mUse of undeclared Var mm.core/now[0m
+
+  [36m13[0m  [36m  (inc (.floor js/Math (* 8 (.random js/Math)))))[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn new-problem [][0m
+  [36m16[0m  [36m  {:selected-cell [(rand-digit) (rand-digit)][0m
+  [33m17[0m  [1m   :start-time (now)[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var mm.core/now[0m
+  [36m18[0m  [36m   :user-answer ""[0m
+  [36m19[0m  [36m   :correct nil})[0m
+  [36m20[0m  [36m[0m
+  [36m21[0m  [36m(defn now [] (.getTime (js/Date.)))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.567 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:17  column:17  ----[0m
+
+  [1mUse of undeclared Var mm.core/now[0m
+
+  [36m13[0m  [36m  (inc (.floor js/Math (* 8 (.random js/Math)))))[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn new-problem [][0m
+  [36m16[0m  [36m  {:selected-cell [(rand-digit) (rand-digit)][0m
+  [33m17[0m  [1m   :start-time (now)[0m
+  [0m  [0m  [33m                ^--- Use of undeclared Var mm.core/now[0m
+  [36m18[0m  [36m   :user-answer ""[0m
+  [36m19[0m  [36m   :correct nil})[0m
+  [36m20[0m  [36m[0m
+  [36m21[0m  [36m(defn now [] (.getTime (js/Date.)))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.473 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.414 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.196 seconds.[0m
+[36m----  Could not Read  src/mm/core.cljs   line:82 ----[0m
+
+  [1m/home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 82, col 7] Unmatched delimiter }.[0m
+
+  [36m80[0m  [36m                      )[0m
+  [36m81[0m  [36m     :log[0m
+  [33m82[0m  [1m     }))[0m
+  [0m  [0m  [33m     /home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 82, col 7] Unmatched delimiter }.[0m
+  [36m83[0m  [36m[0m
+  [36m84[0m  [36m[0m
+  [36m85[0m  [36m(def controllers[0m
+
+[36m----  Reader Error : Please see src/mm/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[31mFailed to compile "public/js/app.js" in 0.223 seconds.[0m
+[36m----  Could not Read  src/mm/core.cljs   line:82 ----[0m
+
+  [1m/home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 82, col 7] Unmatched delimiter }.[0m
+
+  [36m80[0m  [36m                      )[0m
+  [36m81[0m  [36m     :log[0m
+  [33m82[0m  [1m     }))[0m
+  [0m  [0m  [33m     /home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 82, col 7] Unmatched delimiter }.[0m
+  [36m83[0m  [36m[0m
+  [36m84[0m  [36m[0m
+  [36m85[0m  [36m(def controllers[0m
+
+[36m----  Reader Error : Please see src/mm/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.411 seconds.[0m
+notifying browser that file changed:  public/js/out/cljs_deps.js
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.385 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:68  column:22  ----[0m
+
+  [1mUse of undeclared Var mm.core/status[0m
+
+  [36m64[0m  [36m           (-> stats[0m
+  [36m65[0m  [36m               (update-in [:success :count] inc)[0m
+  [36m66[0m  [36m               (update-in [:success :total-duration] + dur))[0m
+  [36m67[0m  [36m           stats)[0m
+  [33m68[0m  [1m    false (update-in status [:failure :count] inc)[0m
+  [0m  [0m  [33m                     ^--- Use of undeclared Var mm.core/status[0m
+  [36m69[0m  [36m    stats))[0m
+  [36m70[0m  [36m[0m
+  [36m71[0m  [36m(defn log-failure [stats problem][0m
+  [36m72[0m  [36m[0m
+  [36m73[0m  [36m(defrecord MainController [])[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[31mFailed to compile "public/js/app.js" in 0.213 seconds.[0m
+[36m----  Could not Read  src/mm/core.cljs   line:286 ----[0m
+
+  [1m/home/kenpu/clones/military-math/mm/src/mm/core.cljs [line 286, col 1] Unexpected EOF while reading item 35 of list, starting at line 71 and column 1.[0m
+
+[36m----  Reader Error : Please see src/mm/core.cljs  ----[0m
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:68  column:22  ----[0m
+
+  [1mUse of undeclared Var mm.core/status[0m
+
+  [36m64[0m  [36m           (-> stats[0m
+  [36m65[0m  [36m               (update-in [:success :count] inc)[0m
+  [36m66[0m  [36m               (update-in [:success :total-duration] + dur))[0m
+  [36m67[0m  [36m           stats)[0m
+  [33m68[0m  [1m    false (update-in status [:failure :count] inc)[0m
+  [0m  [0m  [33m                     ^--- Use of undeclared Var mm.core/status[0m
+  [36m69[0m  [36m    stats))[0m
+  [36m70[0m  [36m[0m
+  [36m71[0m  [36m(defrecord MainController [])[0m
+  [36m72[0m  [36m(defmethod controller/params MainController [this params][0m
+  [36m73[0m  [36m  true)[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.535 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.429 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.41 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:265  column:8  ----[0m
+
+  [1mCan't take value of macro cljs.core/let[0m
+
+  [36m261[0m  [36m(defn StatusRenderer[0m
+  [36m262[0m  [36m  [ctx][0m
+  [36m263[0m  [36m  (let [stats-sub (ui/subscription ctx :stats)][0m
+  [36m264[0m  [36m    (fn [][0m
+  [33m265[0m  [1m      [let [stats @stats-sub][0m
+  [0m   [0m  [33m       ^--- Can't take value of macro cljs.core/let[0m
+  [36m266[0m  [36m       [:pre (str stats)]])))[0m
+  [36m267[0m  [36m[0m
+  [36m268[0m  [36m[0m
+  [36m269[0m  [36m(def Status[0m
+  [36m270[0m  [36m  (ui/constructor {:renderer StatusRenderer[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:265  column:13  ----[0m
+
+  [1mUse of undeclared Var mm.core/stats[0m
+
+  [36m261[0m  [36m(defn StatusRenderer[0m
+  [36m262[0m  [36m  [ctx][0m
+  [36m263[0m  [36m  (let [stats-sub (ui/subscription ctx :stats)][0m
+  [36m264[0m  [36m    (fn [][0m
+  [33m265[0m  [1m      [let [stats @stats-sub][0m
+  [0m   [0m  [33m            ^--- Use of undeclared Var mm.core/stats[0m
+  [36m266[0m  [36m       [:pre (str stats)]])))[0m
+  [36m267[0m  [36m[0m
+  [36m268[0m  [36m[0m
+  [36m269[0m  [36m(def Status[0m
+  [36m270[0m  [36m  (ui/constructor {:renderer StatusRenderer[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:266  column:19  ----[0m
+
+  [1mUse of undeclared Var mm.core/stats[0m
+
+  [36m262[0m  [36m  [ctx][0m
+  [36m263[0m  [36m  (let [stats-sub (ui/subscription ctx :stats)][0m
+  [36m264[0m  [36m    (fn [][0m
+  [36m265[0m  [36m      [let [stats @stats-sub][0m
+  [33m266[0m  [1m       [:pre (str stats)]])))[0m
+  [0m   [0m  [33m                  ^--- Use of undeclared Var mm.core/stats[0m
+  [36m267[0m  [36m[0m
+  [36m268[0m  [36m[0m
+  [36m269[0m  [36m(def Status[0m
+  [36m270[0m  [36m  (ui/constructor {:renderer StatusRenderer[0m
+  [36m271[0m  [36m                   :component-deps [][0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.563 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.409 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.398 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.47 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.42 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.422 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.411 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.4 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.398 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.421 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.395 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:70  column:35  ----[0m
+
+  [1mUse of undeclared Var mm.core/i[0m
+
+  [36m66[0m  [36m  (case (:correct problem)[0m
+  [36m67[0m  [36m    true (if-let [dur (submission-duration problem)][0m
+  [36m68[0m  [36m           (-> stats[0m
+  [36m69[0m  [36m               (update-in [:success :durations] conj dur)[0m
+  [33m70[0m  [1m               (update-in [:dist [i j]] inc))[0m
+  [0m  [0m  [33m                                  ^--- Use of undeclared Var mm.core/i[0m
+  [36m71[0m  [36m           stats)[0m
+  [36m72[0m  [36m    false (update-in stats [:failure :count] inc)[0m
+  [36m73[0m  [36m    stats))[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m(defrecord MainController [])[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:70  column:37  ----[0m
+
+  [1mUse of undeclared Var mm.core/j[0m
+
+  [36m66[0m  [36m  (case (:correct problem)[0m
+  [36m67[0m  [36m    true (if-let [dur (submission-duration problem)][0m
+  [36m68[0m  [36m           (-> stats[0m
+  [36m69[0m  [36m               (update-in [:success :durations] conj dur)[0m
+  [33m70[0m  [1m               (update-in [:dist [i j]] inc))[0m
+  [0m  [0m  [33m                                    ^--- Use of undeclared Var mm.core/j[0m
+  [36m71[0m  [36m           stats)[0m
+  [36m72[0m  [36m    false (update-in stats [:failure :count] inc)[0m
+  [36m73[0m  [36m    stats))[0m
+  [36m74[0m  [36m[0m
+  [36m75[0m  [36m(defrecord MainController [])[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.547 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.419 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.435 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.406 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.457 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.442 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.45 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.419 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.398 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.416 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.43 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.45 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.408 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:298  column:36  ----[0m
+
+  [1mUse of undeclared Var mm.core/d[0m
+
+  [36m294[0m  [36m           [:div.-yes [:span n]])[0m
+  [36m295[0m  [36m         (let [{n :count} (:failure stats)][0m
+  [36m296[0m  [36m           [:div.-no [:span n]])[0m
+  [36m297[0m  [36m         [:div.-speed[0m
+  [33m298[0m  [1m          [:span (format-durations d)]]]))))[0m
+  [0m   [0m  [33m                                   ^--- Use of undeclared Var mm.core/d[0m
+  [36m299[0m  [36m[0m
+  [36m300[0m  [36m(def Status[0m
+  [36m301[0m  [36m  (ui/constructor {:renderer StatusRenderer[0m
+  [36m302[0m  [36m                   :component-deps [][0m
+  [36m303[0m  [36m                   :subscription-deps [:stats]}))[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.468 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.407 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:292  column:36  ----[0m
+
+  [1mUse of undeclared Var mm.core/status[0m
+
+  [36m288[0m  [36m  (let [stats-sub (ui/subscription ctx :stats)][0m
+  [36m289[0m  [36m    (fn [][0m
+  [36m290[0m  [36m      (let [stats @stats-sub][0m
+  [36m291[0m  [36m        [:div.status[0m
+  [33m292[0m  [1m         [:div.-yes [:span (get-in status [:success :count])]][0m
+  [0m   [0m  [33m                                   ^--- Use of undeclared Var mm.core/status[0m
+  [36m293[0m  [36m         [:div.-no [:span (get-in status [:failure :count])]][0m
+  [36m294[0m  [36m         [:div.-speed[0m
+  [36m295[0m  [36m          [:span (format-durations (get-in stats [:success :durations]))]]]))))[0m
+  [36m296[0m  [36m[0m
+  [36m297[0m  [36m(def Status[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:293  column:35  ----[0m
+
+  [1mUse of undeclared Var mm.core/status[0m
+
+  [36m289[0m  [36m    (fn [][0m
+  [36m290[0m  [36m      (let [stats @stats-sub][0m
+  [36m291[0m  [36m        [:div.status[0m
+  [36m292[0m  [36m         [:div.-yes [:span (get-in status [:success :count])]][0m
+  [33m293[0m  [1m         [:div.-no [:span (get-in status [:failure :count])]][0m
+  [0m   [0m  [33m                                  ^--- Use of undeclared Var mm.core/status[0m
+  [36m294[0m  [36m         [:div.-speed[0m
+  [36m295[0m  [36m          [:span (format-durations (get-in stats [:success :durations]))]]]))))[0m
+  [36m296[0m  [36m[0m
+  [36m297[0m  [36m(def Status[0m
+  [36m298[0m  [36m  (ui/constructor {:renderer StatusRenderer[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.527 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.45 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.451 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.426 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/mm/core.cljs   line:177  column:4  ----[0m
+
+  [1mUse of undeclared Var mm.core/heapmap[0m
+
+  [36m173[0m  [36m  (if (nil? d) 0 (/ (min d 10) 10)))[0m
+  [36m174[0m  [36m[0m
+  [36m175[0m  [36m(defn d->background[0m
+  [36m176[0m  [36m  [d][0m
+  [33m177[0m  [1m  (heapmap (d->intensity d)))[0m
+  [0m   [0m  [33m   ^--- Use of undeclared Var mm.core/heapmap[0m
+  [36m178[0m  [36m[0m
+  [36m179[0m  [36m(defn Cell[0m
+  [36m180[0m  [36m  [problem d i j][0m
+  [36m181[0m  [36m  (let [type (cell-type problem i j)[0m
+  [36m182[0m  [36m        label (case type[0m
+
+[36m----  Compiler Warning : Please see src/mm/core.cljs  ----[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.547 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.436 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+Notifying browser that CSS file changed: public/css/site.css
+Notifying browser that CSS file changed: public/css/site.css
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.453 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.418 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.424 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.449 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.403 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.433 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.459 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.423 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.532 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.457 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.453 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.472 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.448 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.458 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js
+[0mCompiling "public/js/app.js" from ["src"]...[0m
+[32mSuccessfully compiled "public/js/app.js" in 0.4 seconds.[0m
+notifying browser that file changed:  public/js/out/mm/core.js

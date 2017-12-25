@@ -1,0 +1,148 @@
+.--center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+body {
+    font-family: Helvetica;
+    .--center;
+}
+
+.main-app {
+}
+
+.-row {
+    display: flex;
+    .-cell {
+        .--center;
+    }
+}
+.table-mul {
+    font-size: 2vw;
+    .-cell {
+        width: 4vmin;
+        height: 4vmin;
+        font-size: 2.5vmin;
+        border: thin solid #aaa;
+        margin: 2px;
+        &.-heading {
+            font-weight: bold;
+            background: #ccc;
+        }
+        &.-blank {
+            border-color: transparent;
+        }
+        &.selected {
+            font-weight: bold;
+            border-color: #ccc;
+        }
+        &.along {
+            border-color: #ccc;
+        }
+        &.none {
+            border-color: transparent;
+        }
+    }
+}
+@key-size : 8vw;
+
+.keyboard {
+    margin: 5px 0;
+    .-cell {
+        width: @key-size;
+        height: @key-size;
+        display: flex;
+        align-items: stretch;
+
+        button {
+            flex: 1;
+            .--center;
+            box-sizing: border-box;
+            outline: none;
+            font-size: 100%;
+            border: thin solid #aaa;
+            border-radius: 3px;
+            background: none;
+            margin: 2px;
+        }
+        &.-x2 { width: 2 * @key-size; }
+    }
+    display: flex;
+    .-digits {
+        display: flex;
+        margin-right: 20px;
+        flex-direction: column;
+        &.-disabled {
+            opacity: 0;
+        }
+        .-row {
+            justify-content: center;
+        }
+    }
+    .-commands {
+        flex: 1;
+        .-cell {
+            width: auto;
+            height: 2 * @key-size;
+        }
+    }
+}
+.console {
+    .-question {
+        margin: 20px 0;
+        font-size: 5vw;
+        display: flex;
+        justify-content: center;
+        span {
+            display: inline-block;
+            text-align: center;
+            min-width: 30px;
+        }
+        div.-eq {
+            position: relative;
+            width: 50px;
+            span.-eq {
+                width: 100%;
+                position: absolute;
+                top: 2px;
+            }
+            span.-status {
+                font-size: 80%;
+                font-weight: bold;
+                position: absolute;;
+                width: 100%;
+                top: -2vw;
+                &.-yes { color: Teal; }
+                &.-no { color: Crimson; }
+                &.-q { color: Grey; }
+            }
+        }
+    }
+}
+.status {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto 20px;
+    grid-template-areas: 
+        "yes    no"
+        "footer footer";
+    .-yes, .-no {
+        .--center;
+        height: 50px;
+        color: white;
+        font-size: 5vw;
+        font-weight: bold;
+    }
+    .-yes {
+        grid-area: yes;
+        background: teal;
+    }
+    .-no {
+        grid-area: no;
+        background: crimson;
+    }
+    .-speed {
+        .--center;
+        grid-area: footer;
+    }
+}

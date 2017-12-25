@@ -1,0 +1,156 @@
+.--center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  font-family: Helvetica;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.-row {
+  display: flex;
+}
+.-row .-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.table-mul {
+  font-size: 2vw;
+}
+.table-mul .-cell {
+  width: 4vmin;
+  height: 4vmin;
+  font-size: 2.5vmin;
+  border: thin solid #aaa;
+  margin: 2px;
+}
+.table-mul .-cell.-heading {
+  font-weight: bold;
+  background: #ccc;
+}
+.table-mul .-cell.-blank {
+  border-color: transparent;
+}
+.table-mul .-cell.selected {
+  font-weight: bold;
+  border-color: #ccc;
+}
+.table-mul .-cell.along {
+  border-color: #ccc;
+}
+.table-mul .-cell.none {
+  border-color: transparent;
+}
+.keyboard {
+  margin: 5px 0;
+  display: flex;
+}
+.keyboard .-cell {
+  width: 8vw;
+  height: 8vw;
+  display: flex;
+  align-items: stretch;
+}
+.keyboard .-cell button {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  outline: none;
+  font-size: 100%;
+  border: thin solid #aaa;
+  border-radius: 3px;
+  background: none;
+  margin: 2px;
+}
+.keyboard .-cell.-x2 {
+  width: 16vw;
+}
+.keyboard .-digits {
+  display: flex;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.keyboard .-digits.-disabled {
+  opacity: 0;
+}
+.keyboard .-digits .-row {
+  justify-content: center;
+}
+.keyboard .-commands {
+  flex: 1;
+}
+.keyboard .-commands .-cell {
+  width: auto;
+  height: 16vw;
+}
+.console .-question {
+  margin: 20px 0;
+  font-size: 5vw;
+  display: flex;
+  justify-content: center;
+}
+.console .-question span {
+  display: inline-block;
+  text-align: center;
+  min-width: 30px;
+}
+.console .-question div.-eq {
+  position: relative;
+  width: 50px;
+}
+.console .-question div.-eq span.-eq {
+  width: 100%;
+  position: absolute;
+  top: 2px;
+}
+.console .-question div.-eq span.-status {
+  font-size: 80%;
+  font-weight: bold;
+  position: absolute;
+  width: 100%;
+  top: -2vw;
+}
+.console .-question div.-eq span.-status.-yes {
+  color: Teal;
+}
+.console .-question div.-eq span.-status.-no {
+  color: Crimson;
+}
+.console .-question div.-eq span.-status.-q {
+  color: Grey;
+}
+.status {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: auto 20px;
+  grid-template-areas: "yes    no" "footer footer";
+}
+.status .-yes,
+.status .-no {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  color: white;
+  font-size: 5vw;
+  font-weight: bold;
+}
+.status .-yes {
+  grid-area: yes;
+  background: teal;
+}
+.status .-no {
+  grid-area: no;
+  background: crimson;
+}
+.status .-speed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-area: footer;
+}
